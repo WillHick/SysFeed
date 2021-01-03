@@ -1,4 +1,6 @@
-# SysFeed
+# SysFeed Version 1.0.0.0
+
+# Notes
 C# Feed Using The SystemWatch Component, To List All File And Folder Events On Your Computer
 
 Note This EXE Has Been Made On Windows 10 And Tested On Windows 10 (Other Versions May Vary)
@@ -13,3 +15,11 @@ If You Would Like To Just Run SysFeed, Simply Download And Run "SysFeed.exe".
 SysFeed Doesn't Require Any Permissions Of Admin Permissions, Feel Free To Scan With AntiVirus's Etc.
 
 This Is My First Repo, I Apologize If It Is Messy. 
+
+# Features
+Detect Deleted, Renamed, Changed And New Files On Your PC Through The Feed
+
+# SysFeed News
+The UI Will Be Updated Soon To Something More Minimal And Simplistic, More Settings Will Be Added And More
+
+- Will
